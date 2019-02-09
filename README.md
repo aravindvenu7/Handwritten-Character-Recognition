@@ -7,7 +7,7 @@ https://arxiv.org/abs/1609.03605
 
 CURRENT WORK
 
-The proposed network uses a Faster RCNN inside the CTPN.Currently,the Faster RCNN has been implemented in code.The work in progress involved the implementation fo the Text Connector LSTM part of the network.Once this is complete,the CTPN can be trained.
+The proposed network uses a Faster RCNN inside the CTPN.Currently,the Faster RCNN has been implemented in code.The work in progress involves the implementation fo the Text Connector LSTM part of the network.Once this is complete,the CTPN can be trained.
 
 
 FURTHER WORK
